@@ -47,6 +47,10 @@ class UI {
 						<p class="description">
 							<span>${producto.descripcion2}</span>
 						</p>
+						<p class="description">
+							<span>Puedes tocar este icono para ir directo al chat ---></span>
+							<a title="Whatsapp" href="https://wa.me/message/HCDZ2MOZJRRJJ1" target="_blank"> <img width="35px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/479px-WhatsApp.svg.png" alt="Whatsapp" /></a>
+						</p>
 
 						<div class="bottom">
 							<div class="btn__group">
