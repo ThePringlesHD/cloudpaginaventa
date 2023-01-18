@@ -42,16 +42,23 @@ class UI {
 					</div>
 						<p class="price"><b>Precio: </b> $${producto.price}</p>
 						<p class="description">
-							<b>Descripcion: </b> <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta quae ad ex sint expedita perspiciatis odit eligendi! Et quia ex aperiam dolorum sunt omnis maiores. Repudiandae delectus iste exercitationem vel?</span>
+							<b>Descripcion: </b> <span>${producto.descripcion1}</span>
 						</p>
 						<p class="description">
-							<span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque voluptates consequuntur in assumenda odit hic, aut cupiditate dolorem aspernatur! Quibusdam iusto magnam vero maxime quisquam voluptatibus minima aliquam molestias, iure ratione commodi, reiciendis quasi.</span>
+							<span>${producto.descripcion2}</span>
 						</p>
 
 						<div class="bottom">
 							<div class="btn__group">
 								<button class="btn addToCart" data-id=${producto.id}>Añadir carrito</button>
 							</div>
+						</div>
+
+					<div>
+						<p class="description deski2">
+						<span>Para pagar por Yappy es al: +507 6921-6797</span>
+						</p>
+						<img class="deski" src="https://i0.wp.com/plazadimsum.com/wp-content/uploads/2022/08/yappy-color-landscape-2.png?ssl=1" alt="">
 						</div>
 				</div>
 			</article>

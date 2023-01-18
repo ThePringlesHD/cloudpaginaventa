@@ -2,16 +2,20 @@
     "status": "success",
     "items": [{
             "id": 1,
-            "title": "Roles Datejust",
-            "price": 101,
-            "image": "https://impactotic.co/wp-content/uploads/2021/07/netflix-1.jpg",
-            "category": "rolex"
+            "title": "Netflix 1 Perfil",
+            "price": 4,
+            "image": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI",
+            "descripcion1": "Pantalla de Netflix para que puedas ver tu contenido favorito sin interrupciones. El perfil incluye acceso a 1 Dispositivo",
+            "descripcion2": "Una vez realices tu pago, lo envías al Whatsapp: +507 6452-3183",
+            "category": "netflix"
         },
         {
             "id": 2,
             "title": "OMEGA Speedmaster",
             "price": 104,
             "image": "https://cdn4.chrono24.com/images/topmodels/2875-7wlcl6ogfoc0qxg22ox6up9m-Original.png?auto=compress&amp;h=305",
+            "descripcion1": "netflix",
+            "descripcion2": "netflix",
             "category": "omega"
         },
         {
@@ -19,6 +23,8 @@
             "title": "AUDEMARS PIGUET",
             "price": 75,
             "image": "https://cdn4.chrono24.com/images/topmodels/1177-wugpfdlkkz5ie2od4y1w8rlm-Original.png?auto=compress&amp;h=305",
+            "descripcion1": "netflix",
+            "descripcion2": "netflix",
             "category": "audemars"
         },
         {
@@ -26,6 +32,8 @@
             "title": "HUBLOT Big Bang",
             "price": 99,
             "image": "https://cdn4.chrono24.com/images/topmodels/1065-ae2seivfjwbgqxgobd7rimxu-Original.png?auto=compress&amp;h=305",
+            "descripcion1": "netflix",
+            "descripcion2": "netflix",
             "category": "hublot"
         }
     ]
