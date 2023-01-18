@@ -53,11 +53,11 @@ li{
         padding: 0 3rem;
     }
 }
-@media only screen and (max-width: 768px){
+/*@media only screen and (max-width: 768px){
     .container{
         padding: 0 5rem;
     }
-}
+}*/
 
 /* NAVIGATION */
 .nav{
@@ -66,7 +66,6 @@ li{
     left: 0;
     width: 100%;
     padding: 1.5rem 0;
-    line-height: 1rem;
     background-color: var(--black);
 }
 .nav__center{
@@ -288,6 +287,10 @@ li{
 
 .deski2{
     font-size: 25px;
+}
+
+.logocloud{
+    width: 105px;
 }
 
 @media only screen and (max-width: 1350px){
