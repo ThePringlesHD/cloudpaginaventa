@@ -59,7 +59,7 @@ class UI {
 							<span>Para pagar por Yappy es al: +507 6921-6797</span>
 							</p>
 							<img class="deski" src="https://i0.wp.com/plazadimsum.com/wp-content/uploads/2022/08/yappy-color-landscape-2.png?ssl=1" alt="">
-
+							<br>
 							<p class="description deski2">
 							<span>Para pagar por Trasnferencia ACH</span>
 							<p>26332056282</p>

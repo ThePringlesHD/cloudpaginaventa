@@ -2,39 +2,76 @@
     "status": "success",
     "items": [{
             "id": 1,
-            "title": "Netflix 1 Perfil",
+            "title": "NETFLIX 1 PERFIL",
             "price": 4,
             "image": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI",
-            "descripcion1": "Pantalla de Netflix para que puedas ver tu contenido favorito sin interrupciones. El perfil incluye acceso a 1 Dispositivo",
+            
+            "descripcion1": "Pantalla de Netflix para que puedas ver tu contenido favorito sin interrupciones. El perfil incluye acceso a 1 Dispositivo por 1 MES",
             "descripcion2": "Una vez realices tu pago, lo envías al Whatsapp: +507 6452-3183",
             "category": "netflix"
         },
         {
             "id": 2,
-            "title": "OMEGA Speedmaster",
-            "price": 104,
-            "image": "https://cdn4.chrono24.com/images/topmodels/2875-7wlcl6ogfoc0qxg22ox6up9m-Original.png?auto=compress&amp;h=305",
-            "descripcion1": "netflix",
-            "descripcion2": "netflix",
-            "category": "omega"
+            "title": "HBO MAX 1 PERFIL",
+            "price": 2.5,
+            "image": "https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png",
+            "descripcion1": "Pantalla de HBO Max para que puedas ver tu contenido favorito sin interrupciones. El perfil incluye acceso a 1 Dispositivo por 1 MES",
+            "descripcion2": "Una vez realices tu pago, lo envías al Whatsapp: +507 6452-3183",
+            "category": "hbo"
         },
         {
             "id": 3,
-            "title": "AUDEMARS PIGUET",
-            "price": 75,
-            "image": "https://cdn4.chrono24.com/images/topmodels/1177-wugpfdlkkz5ie2od4y1w8rlm-Original.png?auto=compress&amp;h=305",
-            "descripcion1": "netflix",
-            "descripcion2": "netflix",
-            "category": "audemars"
+            "title": "SPOTIFY 1 MES",
+            "price": 4,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Spotify_logo_vertical_black.jpg",
+            "descripcion1": "Cuenta de Spotify para que escuches tu música favorita sin interrupciones y sin anuncios. La cuenta es nueva y personal por 1 MES",
+            "descripcion2": "Una vez realices tu pago, lo envías al Whatsapp: +507 6452-3183",
+            "category": "spotify"
         },
         {
             "id": 4,
-            "title": "HUBLOT Big Bang",
-            "price": 99,
-            "image": "https://cdn4.chrono24.com/images/topmodels/1065-ae2seivfjwbgqxgobd7rimxu-Original.png?auto=compress&amp;h=305",
-            "descripcion1": "netflix",
-            "descripcion2": "netflix",
-            "category": "hublot"
+            "title": "SPOTIFY 2 MESES",
+            "price": 7,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Spotify_logo_vertical_black.jpg",
+            "descripcion1": "Cuenta de Spotify para que escuches tu música favorita sin interrupciones y sin anuncios. La cuenta es nueva y personal por 2 MESES",
+            "descripcion2": "Una vez realices tu pago, lo envías al Whatsapp: +507 6452-3183",
+            "category": "spotify"
+        },
+        {
+            "id": 5,
+            "title": "SPOTIFY 3 MESES",
+            "price": 10,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Spotify_logo_vertical_black.jpg",
+            "descripcion1": "Cuenta de Spotify para que escuches tu música favorita sin interrupciones y sin anuncios. La cuenta es nueva y personal por 3 MESES",
+            "descripcion2": "Una vez realices tu pago, lo envías al Whatsapp: +507 6452-3183",
+            "category": "spotify"
+        },
+        {
+            "id": 6,
+            "title": "CRUNCHYROLL 1 PERFIL",
+            "price": 3.5,
+            "image": "https://play-lh.googleusercontent.com/CjzbMcLbmTswzCGauGQExkFsSHvwjKEeWLbVVJx0B-J9G6OQ-UCl2eOuGBfaIozFqow",
+            "descripcion1": "Cuenta de Crunchyroll para que disfrutes tus animes favoritos sin interrupciones y sin anuncios. El perfil incluye acceso a 1 Dispositivo por 1 MES",
+            "descripcion2": "Una vez realices tu pago, lo envías al Whatsapp: +507 6452-3183",
+            "category": "crunchyroll"
+        },
+        {
+            "id": 7,
+            "title": "CRUNCHYROLL 3 MESES",
+            "price": 9,
+            "image": "https://play-lh.googleusercontent.com/CjzbMcLbmTswzCGauGQExkFsSHvwjKEeWLbVVJx0B-J9G6OQ-UCl2eOuGBfaIozFqow",
+            "descripcion1": "Cuenta de Crunchyroll para que disfrutes tus animes favoritos sin interrupciones y sin anuncios. El perfil incluye acceso a 1 Dispositivo por 3 MESES",
+            "descripcion2": "Una vez realices tu pago, lo envías al Whatsapp: +507 6452-3183",
+            "category": "crunchyroll"
+        },
+        {
+            "id": 8,
+            "title": "PLEX - PERFILES Y CUENTAS",
+            "price": 2.5,
+            "image": "/PLEXPRECIOS.jpg",
+            "descripcion1": "Pantallas y Cuentas de Plex para que disfrutes peliculas del cine, series y muchas otras categorias sin interrupciones y sin anuncios.",
+            "descripcion2": "Una vez realices tu pago, lo envías al Whatsapp: +507 6452-3183",
+            "category": "crunchyroll"
         }
     ]
 }
