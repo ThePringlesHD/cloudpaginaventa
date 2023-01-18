@@ -285,9 +285,10 @@ li{
     width: 400px;
 }
 
-.deski2{
+.deski2, .deski2 p{
     font-size: 25px;
 }
+
 
 .logocloud{
     width: 105px;
